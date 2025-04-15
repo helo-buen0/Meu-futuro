@@ -2,12 +2,14 @@
 {background-color: lightseagreen; 
     color: beige;
 text-align: center;
-padding: 15px;}
+padding: 15px;
+border-radius: 10px;}
 .body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 0%;
     padding: 0%;
     background-color: lightseagreen;
+    border-radius: 10px;
 }
 .img{
     max-width: 100%;
@@ -21,4 +23,5 @@ padding: 15px;}
     margin: 20px;
     text-align: center;
     font-size: 18px;
+    border-radius: 10px;
 }
